@@ -1,0 +1,1 @@
+print("This is a next.js project deployed onn vercel")
